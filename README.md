@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [LinkedIn - Pishang Ujeniya](https://www.linkedin.com/in/pishangujeniya/)
 
