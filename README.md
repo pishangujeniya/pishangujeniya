@@ -2,7 +2,9 @@
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-[![pishangujeniya's github stats](https://github-readme-stats.vercel.app/api?username=pishangujeniya&count_private=true&show_icons=true)](https://github.com/pishangujeniya)
+[![pishangujeniya's github stats](https://github-readme-stats.vercel.app/api?username=pishangujeniya&count_private=true&show_icons=true)](https://github.com/pishangujeniya) 
+
+![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pishangujeniya&langs_count=4)
 
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [LinkedIn - Pishang Ujeniya](https://www.linkedin.com/in/pishangujeniya/)
