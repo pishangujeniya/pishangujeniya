@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-[![pishangujeniya's github stats](https://github-readme-stats.vercel.app/api?username=pishangujeniya&count_private=true&show_icons=true)](https://github.com/pishangujeniya) 
+<a href="https://profile-summary-for-github.com/user/pishangujeniya" target="_blank">See my profile chart</a>
 
-![Github Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pishangujeniya&langs_count=4)
+<a href="https://github.com/pishangujeniya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pishangujeniya&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/pishangujeniya">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pishangujeniya&langs_count=3" />
+</a>
 
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: [LinkedIn - Pishang Ujeniya](https://www.linkedin.com/in/pishangujeniya/)
